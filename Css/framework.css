@@ -1,0 +1,57 @@
+/* Start Display */
+.f-flex{
+    display: flex;
+}
+.align-center{
+    align-items: center;
+}
+
+/* End Display */
+
+
+/* Start Padding + Margin */
+.p-20{
+    padding: 20px;
+}
+.m-20{
+    margin: 20px;
+}
+/* End Padding + Margin */
+
+/* Colors */
+.c-white{
+    color: white;
+}
+.c-f6f6{
+    color: #f6f6f6;
+}
+/* Colors */
+
+/* Font Size  */
+.fs-15{
+    font-size: 15px;
+}
+.fs-40{
+    font-size: 40px;
+}
+.ls-2{
+    letter-spacing: 2px;
+}
+.lh-1-6{
+    line-height: 1.6;
+}
+/* Font Size  */
+
+/* Width + height  */
+.w-300{
+    width: 300px;
+}
+/* Width + height  */
+
+/* Alot Of Things */
+.f-between{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* Alot Of Things */
